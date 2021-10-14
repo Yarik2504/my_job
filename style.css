@@ -1,0 +1,35 @@
+.img1{
+   width: 850px;
+   height: 500px;
+   border-radius: 50%;
+   display: block;
+   margin: auto;
+
+}
+img{
+   width: 300px;
+   border-radius: 100%;
+}
+table{
+   border: 1px solid black;
+   text-align: center ;
+   margin: auto;
+}
+td {
+   border: 1px solid black;
+
+}
+  
+
+body{
+   background-color: cadetblue;
+}
+
+       
+
+
+
+
+ 
+
+
